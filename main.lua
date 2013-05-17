@@ -14,7 +14,7 @@ display.setStatusBar( display.HiddenStatusBar )
 local provider = "admob"
 
 -- Your application ID
-local appID = "a1515c4dd532963"
+local appID = "YOUR_APPLICATION_ID_HERE"
 
 -- Load Corona 'ads' library
 local ads = require "ads"
